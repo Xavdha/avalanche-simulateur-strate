@@ -1,0 +1,74 @@
+# Fichiers spécifiques à l'utilisateur de Visual Studio 2015
+.vs /
+
+# Fichiers d'objets compilés
+* .slo
+* .lo
+* .o
+* .obj
+
+# En- têtes précompilés
+* .gch
+* .pch
+
+# Bibliothèques dynamiques compilées
+* .so
+* .dylib
+* .dll
+
+# Fichiers du module Fortran
+* .mod
+
+# Bibliothèques statiques compilées
+* .lai
+* .la
+* .a
+* .lib
+
+# Exécutables
+* .exe
+* .out
+* .app
+* .ipa
+
+# Ces fichiers de projet peuvent être générés par le moteur
+* .xcodeproj
+* .xcworkspace
+* .sln
+* .suo
+* .opensdf
+* .sdf
+* .VC.db
+* .VC.opendb
+
+# Actifs précompilés
+SourceArt / ** / * .png
+SourceArt / ** / * .tga
+
+# Fichiers binaires
+Binaires / *
+Plugins / * / Binaires / *
+
+# Construit
+Construire / *
+
+# Whitelist PakBlacklist- <BuildConfiguration> fichiers .txt
+! Construire / * /
+Construire / * / **
+! Construire / * / PakBlacklist * .txt
+
+# N'ignorez pas les fichiers d'icônes dans Build
+! Construire / ** / * .ico
+
+# Données construites pour les cartes
+* _BuiltData.uasset
+
+# Fichiers de configuration générés par l'éditeur
+Enregistré / *
+
+# Fichiers source compilés à utiliser par le moteur
+Intermédiaire / *
+Plugins / * / Intermédiaire / *
+
+# Fichiers de cache à utiliser par l'éditeur
+DerivedDataCache / *
