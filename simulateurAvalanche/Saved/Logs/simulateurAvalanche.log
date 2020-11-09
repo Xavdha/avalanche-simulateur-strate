@@ -753,3 +753,47 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.09-13.11.48:374][800]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 125 classes and 0 folders.
 [2020.11.09-13.11.49:798][800]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2020.11.09-13.11.50:120][801]LogSlate: Took 0.005350 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.11.09-13.22.54:988][514]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.09-13.22.54:988][514]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.09-13.22.55:413][515]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.09-13.22.55:413][515]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.09-13.22.55:793][516]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.09-13.22.55:793][516]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.09-13.22.55:793][516]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.09-13.22.55:793][516]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.09-13.22.56:086][517]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.09-13.22.56:604][518]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.09-13.22.56:604][518]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.09-13.22.58:470][519]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.09-13.22.58:470][519]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.09-13.22.58:470][519]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.09-13.22.58:470][519]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.09-13.22.58:470][519]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.09-13.22.58:471][519]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.09-13.22.58:471][519]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.09-13.22.58:471][519]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.09-13.22.58:471][519]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.09-13.22.58:471][519]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.09-13.22.58:471][519]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.09-13.22.58:471][519]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.09-13.22.58:471][519]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.09-13.22.59:119][520]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.09-13.22.59:119][520]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.09-13.23.01:161][526]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.09-13.23.01:161][526]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.09-13.23.03:102][532]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.09-13.23.03:102][532]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.11.09-13.24.27:180][969]Cmd: EDIT PASTE
+[2020.11.09-13.26.23:161][400]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.11.09-13.35.25:029][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.09-13.35.25:029][465]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2020.11.09-13.35.25:029][465]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.09-13.35.25:029][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.09-13.35.25:036][465]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.09-13.35.25:039][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.09-13.35.25:088][465]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.09-13.35.25:089][465]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001DAA5C11800), frame # 37465
+[2020.11.09-13.35.25:089][465]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001DABF34CA00), frame # 37465
+[2020.11.09-13.35.25:091][465]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2020.11.09-13.35.25:123][466]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2020.11.09-13.46.03:365][601]LogSlate: Window 'affichage' being destroyed
